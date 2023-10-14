@@ -1,0 +1,14 @@
+Oefening 1: Array en for-loop
+Schrijf een programma dat een array van getallen bevat. Gebruik een for-loop om de som van alle getallen in de array te berekenen en deze som af te drukken.
+
+Oefening 2: Functies en recursie
+Schrijf een recursieve functie genaamd factorial die de faculteit van een getal berekent. De faculteit van een getal n is het product van alle positieve gehele getallen van 1 tot n. Bijvoorbeeld, de faculteit van 5 (aangeduid als 5!) is 5 * 4 * 3 * 2 * 1 = 120.
+
+Oefening 3: Objecten en lussen
+Maak een object dat informatie over een persoon bevat, zoals naam, leeftijd en woonplaats. Gebruik een for-in-loop om alle eigenschappen van het object af te drukken.
+
+Oefening 4: Functies en arrays (uitdagend)
+Schrijf een functie genaamd findDuplicates die alle duplicaten in een array van getallen identificeert en deze duplicaten teruggeeft in een nieuwe array. Bijvoorbeeld, als de invoerarray [1, 2, 2, 3, 4, 4, 5] is, zou de functie [2, 4] moeten retourneren, aangezien dit de duplicaten zijn.
+
+Oefening 5: Objecten en functies (uitdagend)
+Maak een object dat een boodschappenlijstje voorstelt. Het object moet methoden bevatten om items toe te voegen, te verwijderen en de volledige lijst af te drukken. Implementeer ook een methode om het totale bedrag van de boodschappen te berekenen.

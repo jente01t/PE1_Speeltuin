@@ -1,0 +1,14 @@
+Oefening 1: Variabelen en if/else
+Schrijf een programma dat de gebruiker vraagt om zijn leeftijd in te voeren. Als de leeftijd 18 of ouder is, toon dan "Je bent meerderjarig", anders toon "Je bent minderjarig".
+
+Oefening 2: Functies en if/else
+Schrijf een functie genaamd isEven die een getal als argument neemt en true teruggeeft als het getal even is en false als het oneven is. Roep de functie aan en toon het resultaat.
+
+Oefening 3: For-loop
+Schrijf een programma dat alle even getallen tussen 1 en 20 afdrukt. Gebruik een for-loop om dit te bereiken.
+
+Oefening 4: While-loop
+Schrijf een programma dat de Fibonacci-reeks genereert en afdrukt tot een opgegeven aantal termen. Gebruik een while-loop om dit te doen. De Fibonacci-reeks begint met 0 en 1, en elk volgend getal is de som van de twee voorgaande getallen (bijv. 0, 1, 1, 2, 3, 5, 8, ...).
+
+Oefening 5: Functies en loops (uitdagend)
+Schrijf een functie genaamd findPrimeNumbers die alle priemgetallen onder een opgegeven getal n teruggeeft. Gebruik een for-loop om dit te bereiken. Een priemgetal is een getal groter dan 1 dat alleen deelbaar is door 1 en zichzelf (bijv. 2, 3, 5, 7, 11, ...).

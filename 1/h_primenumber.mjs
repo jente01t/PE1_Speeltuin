@@ -25,7 +25,6 @@ function printPrime(n) {
 }
 
 printPrime(n);
-//console.log(isPrime(n));
 
 
 process.exit();

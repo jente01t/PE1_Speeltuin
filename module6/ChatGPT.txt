@@ -1,0 +1,10 @@
+Array Optellen: Schrijf een functie die alle getallen in een array optelt en het totaal retourneert.
+
+Maximale Waarde: Vind het grootste getal in een array en retourneer dit.
+
+Filteren op Even Getallen: Maak een nieuwe array met alleen de even getallen van een bestaande array.
+
+Array Omkeren: Keer de volgorde van een array om zonder de originele array te wijzigen.
+
+Dubbele Elementen Verwijderen: Schrijf een functie die duplicaten verwijdert en een nieuwe array retourneert met alleen unieke waarden.
+

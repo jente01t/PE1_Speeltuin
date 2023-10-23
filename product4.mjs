@@ -5,8 +5,8 @@ const userInput = readline.createInterface({input, output});
 let getal = parseFloat(await userInput.question("Geef een getal: "));
 let som = 1;
 
-while (getal > 0) {
-    if (getal % 4 == 0) {
+while (getal >= 0) {
+    if (getal % 4 == 0 && getal != 0) {
         console.log('het getal is deelbaar door 4')
         som = som * getal;
         getal = parseFloat(await userInput.question("Geef een getal: "));

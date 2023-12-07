@@ -13,6 +13,8 @@ for (let i = 0; i < numbers.length; i++) {
     som += numbers[i];
 }
 
+
+
 console.log('De som van de getallen is: ' + som);
 
 process.exit();
